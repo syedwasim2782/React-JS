@@ -21,7 +21,7 @@ function App() {
       date: new Date(2021, 4, 2),
     },
     {
-      id: "e4",
+      id: "e4 edited",
       title: "Food",
       amount: 540,
       date: new Date(2021, 5, 5),
