@@ -9,12 +9,6 @@ function App() {
       date: new Date(2021, 5, 12),
     },
     {
-      id: "Hagewa Object",
-      title: "Pade wa",
-      amount: 250,
-      date: new Date(2021, 5, 12),
-    },
-    {
       id: "e2",
       title: "Books",
       amount: 230,
@@ -27,7 +21,7 @@ function App() {
       date: new Date(2021, 4, 2),
     },
     {
-      id: "e1",
+      id: "e4",
       title: "Food",
       amount: 540,
       date: new Date(2021, 5, 5),
